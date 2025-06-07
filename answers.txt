@@ -17,3 +17,15 @@ matplotlib, to conduct research on inner cranial brain hemorrhages in children.
 This was a biomedical application, but there are plenty of retail or corporate 
 applications of data science as well!
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: 
+Merging will put two branches next to each other, which makes it easy to see 
+when a branch was merged, and keeps everyones commits intact. But, it can 
+get messy and difficult to read, especially with multiple people on the branch.
+
+Rebase takes the commits of the new branch and puts it on top of the other 
+branch, rewriting the base. It keeps everything linear and clean, but it 
+rewrites history, and can be confusing. You shouldn't rebase a branch that 
+other people are using. 
