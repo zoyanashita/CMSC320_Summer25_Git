@@ -1,0 +1,9 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to almost any field involving the
+processing for data. For example, I completed an AI/Machine Learning 
+internship at the FDA, where we used data science methodologies, such as 
+block design, simulation based data collection, alongside pandas and 
+matplotlib, to conduct research on intercranial brain hemmorahges in children.
+This was a biomedical application, but there are plenty of retail or corporate 
+applications of data science as well!
