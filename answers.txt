@@ -1,0 +1,8 @@
+Q1: Why might we consider using Git?
+
+Answer: Github is a Distributed VCS (Version Control System) that allows for
+both collaborative work on a project and cloud storage of projects. Not only 
+does it make it easy to share source code with others, but it also tracks all 
+history, commits, and updates. This is helpful when working on projects with 
+both multiple individuals, or just yourself, because you can track where and 
+when something goes wrong, and still have access to prior code reverse it. 
