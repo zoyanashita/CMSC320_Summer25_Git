@@ -29,3 +29,12 @@ Rebase takes the commits of the new branch and puts it on top of the other
 branch, rewriting the base. It keeps everything linear and clean, but it 
 rewrites history, and can be confusing. You shouldn't rebase a branch that 
 other people are using. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to filling in the gaps of my knowledge of Data
+Science. My internship was a very confusing process, and I was thrown into 
+a lot of new concepts. I can already tell this class will help me increase 
+upon my understanding, since I didn't even realize I was doing things
+like block design in my data collection. I look forward to gaining a full 
+foundation for Data Science, that I can apply as my career moves forward. 
